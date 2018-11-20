@@ -3,6 +3,12 @@ Notes and cheatsheets while for learning VIM
 
 # VIM Cheatsheet
 
+## Open VIM
+
+To open a file in VIM use `vim filename.file_extension`
+To open a folder in VIM use `vim folder_name`
+To open the current folder use `vim .`
+
 ## Modes
 
 **ESC**
