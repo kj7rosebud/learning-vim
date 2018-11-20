@@ -9,6 +9,12 @@ To open a file in VIM use `vim filename.file_extension`
 To open a folder in VIM use `vim folder_name`
 To open the current folder use `vim .`
 
+## Create or edit a file
+**e**
+To create or edit a file open vim and enter command mode and then use `e filename.file_extension`
+
+To edit a new or existing file in a new tab enter command mode and then use `tabe filename`
+
 ## Modes
 
 **ESC**
@@ -36,7 +42,9 @@ Return to Normal mode **ESC* and press **SHIFT*+**:** to enter command mode, nex
 **ESC** **SHIFT** + **:q**
 
 
+### KEEP LEARNING
 
+**https://thoughtbot.com/upcase/onramp-to-vim**
 
 
 
