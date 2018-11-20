@@ -41,6 +41,13 @@ Return to Normal mode **ESC* and press **SHIFT*+**:** to enter command mode, nex
 
 **ESC** **SHIFT** + **:q**
 
+## Navigationg
+
+`h`left 
+`j`down
+`k`up
+`l`right
+
 
 ### KEEP LEARNING
 
